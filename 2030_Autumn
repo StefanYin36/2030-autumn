@@ -1,0 +1,6 @@
+2030_Autumn
+Priority HVDC > PV Regler
+HVDC 无功能力: ±0.30 * p_nom
+普通发电机默认无功能力: ±0.203058661 * max(p_nom, p)
+线路: 没有单独无功补偿设备，只导入线路充电电容 cline_uF_per_km
+verteilter Slack enabled
